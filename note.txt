@@ -1,0 +1,3 @@
+We can put any ideas or important notices here...
+When working on this repo, please push to your own github branch and not the main one!
+Commit regularly with detailed commit messages, and push your work once you are done working for that day.
